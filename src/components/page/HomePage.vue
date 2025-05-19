@@ -1,10 +1,13 @@
 <template>
-  <h1>Homepage</h1>
+  <HeroSection />
 </template>
 
 <script>
+import HeroSection from  "../homePage/HeroSection.vue";
 export default {
-
+    components: {
+        HeroSection
+    }
 }
 </script>
 
