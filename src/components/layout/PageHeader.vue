@@ -37,7 +37,7 @@
 </template>
 
 <script setup>
-import PageLogo from "../components/composables/PageLogo.vue";
+import PageLogo from "../composables/PageLogo.vue";
 import { useRoute } from "vue-router";
 import { computed, onBeforeUnmount, onMounted, ref } from "vue";
 import { FaBarsStaggered } from "@kalimahapps/vue-icons";
