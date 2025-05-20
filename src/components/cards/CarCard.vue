@@ -9,7 +9,7 @@
                 <span class="text-gray-400 text-sm font-light">/day</span>
             </p>
         </div>
-        <div class="flex justify-between">
+        <div class="flex justify-between gap-2">
             <ButoonComponents text="Book Now"/>
             <ButoonComponents text="Details" bgColor="bg-green-500"/>
         </div>

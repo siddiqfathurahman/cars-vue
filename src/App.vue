@@ -1,5 +1,8 @@
-<template>
-  <router-view />
+<template >
+  <div class="font-sans-serif">
+    <router-view />
+
+  </div>
 </template>
 
 <script>
