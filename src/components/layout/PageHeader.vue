@@ -5,7 +5,7 @@
   >
     <div class="flex justify-between items-center w-full md:w-5/6 md:relative">
       <PageLogo />
-      <nav :class="{'scrolled-nav' : isScrolled}" class="space-x-6 hidden md:flex">
+      <nav :class="[{ 'scrolled-nav': isScrolled }, 'space-x-6 hidden md:flex']">
         <router-link
           v-for="link in links"
           :key="link.path"
@@ -99,5 +99,10 @@ nav a.active-link {
   color: #10b981 !important;
   font-weight: bold;
 }
+
+nav a.scrolled-nav a{
+  color: black !important;
+}
+
 
 </style>
