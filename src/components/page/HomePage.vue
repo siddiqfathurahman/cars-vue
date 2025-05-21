@@ -4,6 +4,7 @@
   <AboutUs />
   <ServiceList />
   <CallToAction />
+  <TestimonySection />
 </template>
 
 <script>
@@ -12,6 +13,7 @@ import CallToAction from '../homePage/CallToAction.vue';
 import FeaturedSection from '../homePage/FeaturedSection.vue';
 import HeroSection from  "../homePage/HeroSection.vue";
 import ServiceList from '../homePage/ServiceList.vue';
+import TestimonySection from '../homePage/TestimonySection.vue';
 export default {
     components: {
         HeroSection,
@@ -19,6 +21,7 @@ export default {
         AboutUs,
         ServiceList,
         CallToAction,
+        TestimonySection,
     }
 }
 </script>
