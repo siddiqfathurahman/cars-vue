@@ -5,6 +5,7 @@
   <ServiceList />
   <CallToAction />
   <TestimonySection />
+  <BlogSection />
 </template>
 
 <script>
