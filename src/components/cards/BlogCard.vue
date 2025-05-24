@@ -3,7 +3,7 @@
     <img :src="getImage(image)" alt="" class="object-cover h-56 w-full">
     <div class="space-y-2 pt-5">
         <p class="text-sm text-blue-500">
-            {{ date }} {{ author }} {{ comments?.length }} 
+            {{ date }} {{ author }} {{ comments?.length }} comments
         </p>
         <h2 class="text-xl font-semibold text-gray-800 mt-2">
             {{ title }}
