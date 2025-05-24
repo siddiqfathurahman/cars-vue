@@ -9,6 +9,7 @@
 
 <script>
 import AboutUs from '../homePage/AboutUs.vue';
+import BlogSection from '../homePage/BlogSection.vue';
 import CallToAction from '../homePage/CallToAction.vue';
 import FeaturedSection from '../homePage/FeaturedSection.vue';
 import HeroSection from  "../homePage/HeroSection.vue";
@@ -22,6 +23,7 @@ export default {
         ServiceList,
         CallToAction,
         TestimonySection,
+        BlogSection
     }
 }
 </script>
