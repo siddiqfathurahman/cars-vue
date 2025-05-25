@@ -74,7 +74,7 @@ const contactInfo = [
     text: "203 Fake St. Mountain View, San Francisco, California, USA",
   },
   { icon: AnOutlinedMail, text: "+2 392 3929 210" },
-  { icon: BsTelephoneFill, text: "info@yourdomain.com" },
+  { icon: BsTelephoneFill, text: "carbook@gmail.com" },
 ];
 </script>
 
