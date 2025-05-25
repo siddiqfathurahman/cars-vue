@@ -9,7 +9,7 @@
           </h1>
           <p class="text-gray-100 text-base max-w-sm">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-            delectus perferendis illo, obcaecati libero dicta consequatur?
+            delectus perferendis illo, obcaecati libero
           </p>
           <div class="flex items-center justify-between w-1/2 text-2xl">
             <FaBandsXTwitter />
